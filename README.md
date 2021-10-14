@@ -15,5 +15,5 @@ Python
 
 # Autores
 - Victor Matheus Silva Lima (https://github.com/Victor-Silva98)
-- Higor Frade
+- Higor Frade (https://github.com/higorfrade)
 - Jose Siqueira
