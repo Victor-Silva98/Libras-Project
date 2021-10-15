@@ -16,4 +16,4 @@ Python
 # Autores
 - Victor Matheus Silva Lima (https://github.com/Victor-Silva98)
 - Higor Frade (https://github.com/higorfrade)
-- Jose Siqueira
+- Jose Siqueira (https://github.com/js-siqueira)
