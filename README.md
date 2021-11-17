@@ -1,4 +1,4 @@
-# Bird Detection Project :parrot::deciduous_tree:
+# Libras Detection :hand: :call_me_hand:
 
 ## Sobre o projeto
 O Libras Project utilizará uma rede neural para traduzir as libras apresentadas em tempo real, visando para pessoas aprenderem a fazer e reconhecer libras. <br>
