@@ -34,9 +34,6 @@ A partir da letra em libras feito na câmera, a IA irá aplicar o que foi feito 
 - [X] Aplicação do modelo matemático(Euclidian)
 - [X] Criação do Dataset
 
-# Tecnologias utilizadas
-##### :snake: Python
-##### :iphone: Android
 
 ## Próximos objetivos
 - [ ] Treinar a IA para detectar frases
