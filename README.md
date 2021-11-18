@@ -23,7 +23,7 @@ A partir da letra em libras feito na câmera, a IA irá aplicar o que foi feito 
 - [X] Estudo dos dados
 - [X] Treino e salvamento
 - [X] Diferenciar letras a partir do modelo matemático
--  [X] Printar na tela a letra detectada
+- [X] Printar na tela a letra detectada
 - [ ] Acréscimo de frases
 
 ### Webserver
@@ -31,9 +31,10 @@ A partir da letra em libras feito na câmera, a IA irá aplicar o que foi feito 
 
 
 ## Parte executada/feita por mim
+- [X] Criação das imagens
 - [X] Aplicação do modelo matemático(Euclidian)
 - [X] Criação do Dataset
--  [X] Mostrar na tela letra identificada
+- [X] Mostrar na tela letra identificada
 
 
 ## Próximos objetivos
